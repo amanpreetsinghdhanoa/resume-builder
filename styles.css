@@ -1,0 +1,232 @@
+/* General Body Styling */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styling */
+.navbar {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Hero Section Styling */
+.hero-section {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(to right, #007bff, #6610f2);
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.hero-image {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+/* Fun Message Styling */
+.fun-message {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #343a40;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+
+/* this is login page css */
+
+/* General Body Styling */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styling */
+.navbar {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Hero Section Styling */
+.hero-section {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(to right, #007bff, #6610f2);
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.hero-image {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+/* Fun Message Styling */
+.fun-message {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #343a40;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+/* Login Page Specific Styles */
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.btn-login, .btn-google {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.btn-login {
+    background: #007bff;
+    color: white;
+}
+
+.btn-login:hover {
+    background: #0056b3;
+}
+
+.btn-google {
+    background: #db4437;
+    color: white;
+}
+
+.btn-google:hover {
+    background: #c1351d;
+}
+
+.divider {
+    margin: 15px 0;
+    text-align: center;
+    font-weight: bold;
+    color: #6c757d;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+}
+
+
+
+
+/*------------------------resume css-------------------------------*/
+
+
+
+/* General Styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-container {
+    max-width: 800px;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #343a40;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.input-group .btn {
+    min-width: 40px;
+}
+
+.resume-preview {
+    max-width: 800px;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.btn-primary {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Social Links Section */
+#social-links-container .row {
+    margin-bottom: 15px;
+}
+
+/* Custom Sections */
+#custom-sections-container .input-group {
+    margin-bottom: 10px;
+}
+
+/* Personal Details */
+#personal-details-container .row {
+    margin-bottom: 15px;
+}
